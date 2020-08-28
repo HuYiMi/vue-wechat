@@ -53,9 +53,8 @@
 
 ## 启动
 
-1. 首次运行先执行 `npm install --registry=https://registry.npm.taobao.org`
-2. `npm run dev`
-3. 浏览器打开 http://127.0.0.1:8080
+1. `npm run dev`
+2. 浏览器打开 http://127.0.0.1:8080
 
 # 参考
 

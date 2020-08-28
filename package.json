@@ -2,7 +2,7 @@
   "name": "chat_fe",
   "version": "1.0.0",
   "description": "微信客服前端项目",
-  "author": "dadiyang",
+  "author": "huyimin",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
